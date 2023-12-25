@@ -8,4 +8,7 @@ This design turns the 4 Swerve modules into self contained sub assemblies that h
 
 ![image](https://github.com/entech281/2023_Swerve_Mechanical/assets/57200454/d8378e79-a100-4474-aefb-aee487b438c9)
 
-This system provides provisions to allow exterior bumper plants to aid in the mounting of bumpers. 
+This system provides provisions to allow exterior bumper plants to aid in the mounting of bumpers with the Dzus 1500 Series Sliding Latch. 
+
+![image](https://github.com/entech281/2023_Swerve_Mechanical/assets/57200454/93b0a283-4efe-4082-a160-045458bcc1b0)
+
