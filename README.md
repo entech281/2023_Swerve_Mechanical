@@ -2,6 +2,10 @@
 
 Initial release of the 281 Swerve Robot design. 
 
+First and foremost this design would not exist without the fantastic leadership of Hayley M.  Thank you for driving us to build a better Swerve robot!  
+
+Designers: Hayley M,  Benjamin J, AJ M
+
 ![image](https://github.com/entech281/2023_Swerve_Mechanical/assets/57200454/55ae1bb4-f527-4d87-8b05-bdc738a9b7c3)
 
 This design turns the 4 Swerve modules into self contained sub assemblies that hold the SDS MK4i Module, Rev Robotics Neo's, Rev Robotics Spark Max's, and custom 3d Printed housings to hold everything together. 
