@@ -12,3 +12,7 @@ This system provides provisions to allow exterior bumper plants to aid in the mo
 
 ![image](https://github.com/entech281/2023_Swerve_Mechanical/assets/57200454/93b0a283-4efe-4082-a160-045458bcc1b0)
 
+There is an Equations Sheet in the root directory of the solidworks files that will allow the user to quickly change many dimensions for the robot in a fully parametric design. 
+
+![image](https://github.com/entech281/2023_Swerve_Mechanical/assets/57200454/a1f72c6b-2c7b-41f6-9055-24d5bf05e057)
+
